@@ -12,7 +12,6 @@
 ## 👨‍💻 About Me
 - 💻 Backend Developer using ASP.NET Core  
 - 🗄️ Working with MySQL & SQL Server  
-- 🔐 Interested in APIs & Authentication  
 - 📚 Currently learning backend development step by step  
 
 ---
