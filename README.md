@@ -21,7 +21,7 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,html,css,js" />
 </p>
 
 ### ⚙️ Frameworks & Backend
@@ -36,7 +36,7 @@
 
 ### 🧰 Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,visualstudio,jira,notion" />
+  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,visualstudio,notion" />
 
 </p>
 
