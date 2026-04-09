@@ -31,12 +31,12 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sql server" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🧰 Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,visualstudio,notion,jira" />
+  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,visualstudio,jira,notion" />
 
 </p>
 
