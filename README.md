@@ -22,9 +22,22 @@
 ### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,java" />
+</p>
+
+### ⚙️ Frameworks & Backend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧰 Tools & IDEs
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
 </p>
 
 ---
