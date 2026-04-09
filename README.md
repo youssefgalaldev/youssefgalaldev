@@ -36,7 +36,7 @@
 
 ### 🧰 Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,visualstudio,notion" />
+  <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,visualstudio,notion,jira" />
 
 </p>
 
