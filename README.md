@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Backend Developer (.NET)</h3>
+<h1 align="center">Hi there, I'm Youssef</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+(.NET);ASP.NET+Core+Specialist;Building+Scalable+APIs&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-galal-5a1129330">LinkedIn</a>
