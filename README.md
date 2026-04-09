@@ -36,8 +36,8 @@
 
 ### 🧰 Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
-  <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,git,postman,vscode,visualstudio" />
+
 </p>
 
 ---
