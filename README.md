@@ -1,7 +1,5 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/youssef-galal-5a1129330">Youssef</a> 👋 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+(.NET);ASP.NET+Core+Specialist;Building+Scalable+APIs&center=true&width=500&height=45">
-</p>
+<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h3 align="center">Backend Developer (.NET)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-galal-5a1129330">LinkedIn</a>
@@ -9,63 +7,39 @@
 
 ---
 
-## 👨🏻‍💻 About Me
-✨ Backend Developer (.NET)  
-💻 Building APIs with ASP.NET Core  
-🗄️ Working with MySQL & SQL Server  
-🔐 Interested in Authentication & Security  
-📚 Always learning & improving  
+## 👨‍💻 About Me
+- 💻 Backend Developer using ASP.NET Core  
+- 🗄️ Working with MySQL & SQL Server  
+- 🔐 Interested in APIs & Authentication  
+- 📚 Currently learning backend development step by step  
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,postman" />
+<p>
+<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Web%20API-512BD4?logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+## 🎯 Current Focus
+- 🚀 Building my first backend projects  
+- 🔐 Learning authentication (JWT)  
+- ⚡ Improving database skills  
 
 ---
 
-## 🧠 Current Focus
-- 🔥 Building Backend Projects  
-- 🔐 JWT Authentication  
-- ⚡ Database Optimization  
-
----
-
-## 📂 Featured Projects
-🚧 Coming Soon...
-- REST APIs with ASP.NET Core  
-- Authentication System  
-- CRUD Systems with MySQL  
-
----
-
-## ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+## 📂 Projects
+🚧 No projects yet — currently building my first one.
 
 ---
 
 <p align="center">
-  ⚡ Turning ideas into scalable backend systems
+⚡ Preparing to build strong backend systems
 </p>
