@@ -31,7 +31,7 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mysql,sql server" />
 </p>
 
 ### 🧰 Tools & IDEs
