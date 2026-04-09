@@ -18,14 +18,25 @@
 ---
 
 ## 🛠 Tech Stack
-<p>
-<img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Web%20API-512BD4?logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white"/>
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java" />
+</p>
+
+### ⚙️ Frameworks & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧰 Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
 </p>
 
 ---
